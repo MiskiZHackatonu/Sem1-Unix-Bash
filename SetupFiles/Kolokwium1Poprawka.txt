@@ -1,0 +1,19 @@
+1. Ile grup jest zdefiniowanych w systemie?
+
+2. Ile plików typu katalog znajduje się w /usr/include (bez podkatalogów)?
+
+3. Znajdź użytkownika w systemie, który ma uruchomioną największą liczbę procesów.
+
+4. Znajdź proces, który zużył najwięcej czasu procesora.
+
+5. Znajdź plik w swoim katalogu domowym, który był najdawniej modyfikowany.
+
+6. Zakładając, że w odpowiedniej kolumnie odpowiedniego pliku jest zdefiniowane imię i nazwisko
+użytkownika, znajdź ile jest osób o nazwisku Kowalski.
+
+7. Ile jest plików w /usr/include (bez podkatalogów), których nazwa składa się z 6 liter, zaczyna się na
+"m" i kooczy na ".h"?
+
+8. Ile jest procesów, których ojcem jest proces o PID 1?
+
+9. Podaj numer i-węzła opisującego /tmp

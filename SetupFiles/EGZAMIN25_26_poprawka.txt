@@ -1,0 +1,61 @@
+Część I: Pytania teoretyczne
+
+    Historia systemu UNIX
+        a) Kiedy i przez kogo został stworzony system UNIX?
+        b) Wymień i krótko opisz trzy kluczowe wydarzenia w historii rozwoju systemu UNIX.
+
+    Powłoka UNIX
+        a) Co to jest powłoka w systemie UNIX? Jakie są jej główne funkcje?
+        b) Wymień trzy popularne powłoki używane w systemach UNIX i krótko je opisz.
+
+    Zarządzanie plikami
+        a) Co to jest inode i jaką rolę odgrywa w systemie plików UNIX?
+        b) Jakie polecenie użyjesz do zmiany nazwy pliku w UNIX? Podaj przykład użycia.
+
+    Uprawnienia do plików i katalogów
+        a) Wyjaśnij znaczenie uprawnień r, w, x dla plików i katalogów.
+        b) Jakie polecenie służy do zmiany właściciela pliku? Podaj przykład użycia.
+
+    Sieć w systemie UNIX
+        a) Jakie polecenie użyjesz, aby sprawdzić połączenie sieciowe do innego hosta? Wyjaśnij działanie tego polecenia.
+        b) Co to jest plik /etc/hosts i jakie jest jego zastosowanie?
+
+Część II: Zadania praktyczne
+
+    Praca z katalogami
+        a) Utwórz w swoim katalogu domowym strukturę katalogów: Projekty -> Projekt1 -> Dokumentacja.
+        b) Przejdź do katalogu Dokumentacja.
+
+    Tworzenie i edycja plików
+        a) W katalogu Dokumentacja utwórz plik README.txt i dodaj do niego tekst: "Dokumentacja projektu 1".
+        b) Skopiuj plik README.txt do katalogu Projekt1 i zmień jego nazwę na INFO.txt.
+
+    Ustawienia uprawnień
+        a) Sprawdź aktualne uprawnienia do pliku INFO.txt.
+        b) Zmień uprawnienia do pliku INFO.txt tak, aby tylko właściciel mógł czytać i pisać do pliku, a grupa i inni użytkownicy mieli tylko uprawnienia do czytania.
+        c) Potwierdź zmiany, wyświetlając ponownie uprawnienia do pliku INFO.txt.
+
+    Tworzenie skryptów powłoki
+        a) W katalogu Projekt1 utwórz skrypt powłoki o nazwie backup.sh.
+        b) Skrypt powinien wykonywać następujące czynności:
+            Wyświetlać komunikat "Rozpoczynam tworzenie kopii zapasowej".
+            Tworzyć archiwum backup.tar zawierające wszystkie pliki z katalogu Dokumentacja.
+            Przenosić archiwum backup.tar do katalogu Projekty.
+            Wyświetlać komunikat "Kopia zapasowa zakończona".
+        c) Nadaj odpowiednie uprawnienia do wykonania skryptu i uruchom go.
+
+Część III: Pytania otwarte
+
+    Zarządzanie użytkownikami
+        a) Jakie polecenie służy do dodawania nowego użytkownika w systemie UNIX? Opisz kroki, które należy wykonać, aby dodać użytkownika student.
+        b) Jakie pliki konfiguracyjne są związane z zarządzaniem użytkownikami w systemie UNIX? Podaj ich lokalizacje i krótko opisz.
+
+    Rozwiązywanie problemów
+        a) Opisz, jak zdiagnozujesz i naprawisz problem z brakującymi uprawnieniami do pliku w systemie UNIX.
+        b) Jakie kroki podejmiesz, aby zidentyfikować proces, który zużywa najwięcej zasobów systemowych?
+
+    Automatyzacja zadań
+        a) Co to jest cron w systemie UNIX? Jakie jest jego zastosowanie?
+        b) Napisz przykład wpisu do crontaba, który codziennie o godzinie 3:00 rano uruchamia skrypt backup.sh.
+
+Powodzenia!

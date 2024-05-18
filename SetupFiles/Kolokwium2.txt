@@ -1,0 +1,6 @@
+1. Napisz skrypt, który wypisuje liczby od 1 do 10 przy użyciu pętli for.
+
+2. Napisz skrypt, który kopiuje wszystkie pliki z jednego katalogu do drugiego.
+
+3. Napisz skrypt, który przyjmuje dwa argumenty: nazwę pliku i frazę do wyszukania. 
+Skrypt ma wypisać wszystkie linie zawierające tę frazę.

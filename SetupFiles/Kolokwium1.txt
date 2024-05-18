@@ -1,0 +1,13 @@
+1. Ile jest w systemie grup, które są grupą podstawową dla co najmniej jednego użytkownika?
+
+2. Ile plików regularnych jest w twoim katalogu domowym (wraz z podkatalogami)?
+
+3. Ile procesów w systemie ma parametr NICE większy od zera?
+
+4. Jaki jest inode (iwęzeł) katalogu domowego?
+
+5. Ile jest procesów, które posiadają terminal?
+
+6. Ile jest plików w /usr/include, które mają w nazwie td i których nazwy kooczą się na .h?
+a) z podkatalogami
+b) bez podkatalogów

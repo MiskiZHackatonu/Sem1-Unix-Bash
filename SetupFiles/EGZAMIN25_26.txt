@@ -1,0 +1,64 @@
+Część I: Pytania teoretyczne
+
+    Opis systemu UNIX
+        a) Czym jest system UNIX? Opisz jego główne cechy i zalety.
+        b) Wymień i krótko opisz podstawowe komponenty systemu UNIX.
+
+    Struktura plików i katalogów
+        a) Jak zorganizowany jest system plików w UNIX? Opisz strukturę hierarchiczną.
+        b) Co to jest katalog główny (root)? Jakie są jego znaczenie i funkcje?
+
+    Podstawowe polecenia
+        a) Wymień i opisz działanie pięciu podstawowych poleceń systemu UNIX.
+        b) Jakie polecenie użyjesz, aby zmienić uprawnienia do pliku? Wyjaśnij, jak działa to polecenie.
+
+    Skrypty powłoki
+        a) Co to jest skrypt powłoki? Jakie są jego główne zastosowania?
+        b) Napisz krótki skrypt powłoki, który wyświetli komunikat "Hello, World!" na ekranie.
+
+    Procesy w systemie UNIX
+        a) Czym jest proces w systemie UNIX? Jakie są podstawowe rodzaje procesów?
+        b) Jakie polecenie użyjesz, aby wyświetlić listę aktualnie uruchomionych procesów? Jakie informacje można z niego uzyskać?
+
+Część II: Zadania praktyczne
+
+    Nawigacja po systemie plików
+        a) Zaloguj się na swoje konto w systemie UNIX.
+        b) Utwórz w swoim katalogu domowym nowy katalog o nazwie Egzamin.
+        c) Przejdź do katalogu Egzamin.
+
+    Manipulacja plikami
+        a) W katalogu Egzamin utwórz trzy pliki tekstowe: file1.txt, file2.txt, file3.txt.
+        b) W pliku file1.txt zapisz tekst "To jest plik 1", w pliku file2.txt zapisz tekst "To jest plik 2", a w pliku file3.txt zapisz tekst "To jest plik 3".
+        c) Wyświetl zawartość pliku file2.txt na ekranie.
+
+    Zmiana uprawnień
+        a) Sprawdź aktualne uprawnienia do pliku file1.txt.
+        b) Zmień uprawnienia do pliku file1.txt tak, aby właściciel mógł czytać i pisać, grupa mogła tylko czytać, a inni użytkownicy nie mieli żadnych uprawnień.
+        c) Potwierdź zmiany, wyświetlając ponownie uprawnienia do pliku file1.txt.
+
+    Tworzenie skryptów powłoki
+        a) W katalogu Egzamin utwórz skrypt powłoki o nazwie skrypt.sh.
+        b) Skrypt powinien wykonywać następujące czynności:
+            Wyświetlać komunikat "Rozpoczynam pracę".
+            Wyświetlać listę wszystkich plików w katalogu Egzamin.
+            Wyświetlać komunikat "Praca zakończona".
+        c) Nadaj odpowiednie uprawnienia do wykonania skryptu i uruchom go.
+
+Część III: Pytania otwarte
+
+    Problemy i rozwiązania
+        a) Opisz, jak rozwiązałbyś problem braku miejsca na dysku w systemie UNIX.
+        b) Co byś zrobił, gdybyś przypadkowo usunął ważny plik w systemie UNIX? Czy jest możliwe jego odzyskanie?
+
+    Bezpieczeństwo systemu
+        a) Jakie są podstawowe zasady bezpieczeństwa w systemie UNIX? Podaj trzy przykłady.
+        b) W jaki sposób zabezpieczysz swoje konto przed nieautoryzowanym dostępem?
+
+Instrukcje końcowe
+
+    Upewnij się, że odpowiedzi na pytania teoretyczne są jasne i zwięzłe.
+    Upewnij się, że wszystkie polecenia w części praktycznej zostały wykonane prawidłowo.
+    Oddaj egzamin w formie elektronicznej lub papierowej zgodnie z instrukcjami prowadzącego.
+
+Powodzenia!

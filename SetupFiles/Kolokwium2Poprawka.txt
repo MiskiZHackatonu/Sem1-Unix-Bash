@@ -1,0 +1,6 @@
+1. Napisz skrypt, który przyjmuje dwa argumenty: nazwę pliku i frazę do wyszukania. 
+Skrypt ma wypisać liczbę wystąpień tej frazy w pliku.
+
+2. Napisz skrypt, który tworzy archiwum tar.gz wszystkich plików w katalogu podanym jako argument.
+
+3. Napisz skrypt, który sprawdza, czy plik o nazwie podanej jako pierwszy argument istnieje, a następnie wypisuje odpowiedni komunikat.
