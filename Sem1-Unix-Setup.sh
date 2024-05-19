@@ -18,7 +18,9 @@ if $1 == "setup" then
     cp SetupFiles/Laby/* Documents/Laby
 fi
 if $1 == "clean" then
-    rm -r Documents/*
+    rm -r SetupFiles
+    rm -- "$0"
+
 fi
 
 
